@@ -17,6 +17,6 @@ Imports: DT, httr, magrittr, dplyr, ggplot2, osmdata, sf, htmltools,
 Suggests: knitr
 VignetteBuilder: knitr
 NeedsCompilation: no
-Packaged: 2024-06-28 14:44:18 UTC; smahajan
+Packaged: 2024-06-28 14:56:15 UTC; smahajan
 Author: Sachit Mahajan [aut, cre] (<https://orcid.org/0000-0001-9558-8895>)
 Maintainer: Sachit Mahajan <sachitmahajan90@gmail.com>
